@@ -1,0 +1,6 @@
+{
+  "name": "Decision Helper Bot",
+  "description": "Fast, clear, and low-stress decision maker between 2 or more options with cognitive analysis, voting polls, multi-criteria scales matrix, reflective diary journals, financial ROI modeling, and 3D coin toss intuition revealer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
